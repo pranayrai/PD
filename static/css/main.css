@@ -157,11 +157,11 @@ iframe {
   justify-content: center;
   align-items: center;
   padding: 15px;
-  background: rgba(132,106,221,0.9);
+  background-image: url('https://media.giphy.com/media/i4jKn7itdV2Tvjzj6Y/source.mp4');
 }
 
 .wrap-contact100 {
-  width: 460px;
+  width: 520px;
   background: #fff;
   border-radius: 10px;
   overflow: hidden;
@@ -191,7 +191,8 @@ iframe {
 /*------------------------------------------------------------------
 [  ]*/
 .contact100-form {
-  width: 450px;
+  width: 400px;
+  margin: 50px;
 }
 
 .contact100-form-title {

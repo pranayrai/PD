@@ -210,7 +210,7 @@ def index():
         print(predictions)
 
         return render_template('index.html', data=result)
-    return render_template("index.html")
+    return render_template("index.html", data = "")
 
 
 if __name__ == '__main__':
